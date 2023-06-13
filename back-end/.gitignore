@@ -1,2 +1,2 @@
-# .bin
-node_modules/.bin 
+# tirar o node modules
+node_modules/
